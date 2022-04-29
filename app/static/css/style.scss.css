@@ -1,4 +1,14 @@
 body {
-  background: red; }
+  margin: 0;
+  box-sizing: border-box; }
+
+.wrapper {
+  height: 100vh; }
+
+.container-fluid {
+  text-align: center; }
+
+.form-control {
+  margin: 3% 0; }
 
 /*# sourceMappingURL=style.scss.css.map */
